@@ -963,10 +963,6 @@ footer div {
     padding: 0px;
   }
 
-	.title>p {
-		text-align: justify;
-	}
-
   .about, .join, .home, .team {
     padding: 10px 12px 10px 8px;
   }
