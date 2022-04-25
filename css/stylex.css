@@ -460,7 +460,7 @@ section {
 
 .d1>div>p {
   padding: 20px 0;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .d1-bgc {
@@ -1225,7 +1225,7 @@ footer div {
 	}
 
 	p {
-		font-size: 16px;
+		font-size: 1rem;
 		/* text-align: justify; */
 	}
 
@@ -1234,7 +1234,7 @@ footer div {
 	}
 
 	.title>p {
-		font-size: 17px;
+		font-size: 1.063rem;
 	}
 
 	.navbar {
