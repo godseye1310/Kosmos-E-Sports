@@ -1284,6 +1284,10 @@ footer div {
 	.staff-mem li {
 		width: calc(111% - 20px)
 	}
+	
+	.join>div>p {
+		text-align: left;
+	}
 
 	.gender {
 		display: grid;
