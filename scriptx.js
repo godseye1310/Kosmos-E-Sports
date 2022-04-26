@@ -14,7 +14,7 @@
     if (Scrollpos > newScrollPos) {
       document.getElementById("navx").style.top = "0";
     } else {
-      document.getElementById("navx").style.top = "-81px";
+      document.getElementById("navx").style.top = "-60px";
     }
     Scrollpos = newScrollPos;
   }
